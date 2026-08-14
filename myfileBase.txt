@@ -3,4 +3,6 @@ $ git commit -m "Add files"
  4 files changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 document/myfile.txt
  create mode 100644 document/myfilehelp.txt
+change made by student
+
 
