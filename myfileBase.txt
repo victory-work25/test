@@ -4,3 +4,12 @@ $ git commit -m "Add files"
  create mode 100644 document/myfile.txt
  create mode 100644 document/myfilehelp.txt
 
+Counting objects: 100% (24/24), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (19/19), done.
+Writing objects: 100% (24/24), 2.23 KiB | 286.00 KiB/s, done.
+Total 24 (delta 4), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (4/4), done.
+To github.com:victory-work25/test.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
